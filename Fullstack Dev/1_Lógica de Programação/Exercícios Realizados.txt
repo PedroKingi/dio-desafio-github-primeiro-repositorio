@@ -1,0 +1,3 @@
+Todos os exercícios realizados referente ao aprendizado de Fluxograma e Portugol estão contidos nestas pastas.
+
+No momento as pastas estão vazias, pois os arquivos que contém os exercícios estão em outro computador que está em conserto... Mas assim que possível, colocarei eles na pasta correspondente...

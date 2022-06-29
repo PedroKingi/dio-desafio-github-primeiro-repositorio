@@ -1,0 +1,6 @@
+Sou um iniciante e não possuia  conhecimento algum de programação.
+
+Aqui constará minha evolução de aprendizado, onde colocarei todos os exercícios práticos que realizei:
+
+1... Lógica de Programação
+2... Introdução Git/GitHub
