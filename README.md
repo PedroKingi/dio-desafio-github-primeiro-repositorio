@@ -21,5 +21,5 @@ Repositorio  criado para o Desafio de Projetos.
 
 [Sintaxe Basica  Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[GitHub]([www.github.com](http://www.github.com))
+[GitHub](http://www.github.com)
 
